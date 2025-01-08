@@ -1,0 +1,2 @@
+# ignore python virtual environment used for development
+.venv
