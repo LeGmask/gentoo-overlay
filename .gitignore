@@ -1,2 +1,5 @@
 # ignore python virtual environment used for development
 .venv
+
+# ignore cache folder when using `pkgdev manifest -d .cache`
+.cache
